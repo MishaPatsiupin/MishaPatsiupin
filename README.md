@@ -17,4 +17,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mishapatsiupin&show_icons=true&locale=en&layout=compact" alt="mishapatsiupin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mishapatsiupin&show_icons=true&locale=en" alt="mishapatsiupin" /></p>
+<a href="http://www.github.com/MishaPatsiupin"><img src="https://github-readme-stats.vercel.app/api?username=MishaPatsiupin&show_icons=true&hide=stars,contribs&count_private=true&hide_border=true&show_icons=true" alt="GitHub stats" /></a>
