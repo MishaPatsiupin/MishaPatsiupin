@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Misha</h1>
 - 🔭 I’m currently working on <a href="https://github.com/MishaPatsiupin/Number">Number</a>
 
-- 🌱 I’m currently learning **web security**
+- 🌱 I’m currently learning **web security, computer networks**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/MishaPatsiupin/BSUIR">BSUIR</a>
 
